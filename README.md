@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm I'm Mohammad HosseinPour</h1>
+<h1 align="center">Hi there 👋, I'm Mohammad HosseinPour</h1>
 <h3 align="center">A fullstack developer skilled at crafting diverse applications</h3>
 
 - 🔭 I’m currently working on **Qt projects**
