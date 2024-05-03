@@ -1,10 +1,6 @@
 <h1 align="center">Hi there 👋, I'm I'm Mohammad HosseinPour</h1>
 <h3 align="center">A fullstack developer skilled at crafting diverse applications</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamadhpp&label=Profile%20views&color=0e75b6&style=flat" alt="mohamadhpp" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamadhpp" alt="mohamadhpp" /></a> </p>
-
 - 🔭 I’m currently working on **qt projects**
 
 - 👨‍💻 Connect with me: [https://linkedin.com/in/mohamadhp](https://linkedin.com/in/mohamadhp)
