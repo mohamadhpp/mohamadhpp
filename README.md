@@ -1,9 +1,7 @@
 <h1 align="center">Hi there 👋, I'm I'm Mohammad HosseinPour</h1>
 <h3 align="center">A fullstack developer skilled at crafting diverse applications</h3>
 
-- 🔭 I’m currently working on **qt projects**
-
-- 👨‍💻 Connect with me: [https://linkedin.com/in/mohamadhp](https://linkedin.com/in/mohamadhp)
+- 🔭 I’m currently working on **Qt projects**
 
 - 📫 How to reach me: **mohammad.hoseinpour.078@gmail.com**
 
