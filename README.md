@@ -4,10 +4,10 @@
 - 🔭 I’m currently working on **Qt projects**
 
 - ⚡ My nuget profile: [https://www.nuget.org/profiles/mohamadhpp](https://www.nuget.org/profiles/mohamadhpp)
+- 
+- ⚡ My medium profile: [https://medium.com/@mohamadhpp](https://medium.com/@mohamadhpp)
 
 - 📫 How to reach me: **mohammad.hoseinpour.078@gmail.com**
-
-- 📄 Know about my experiences [https://mohamadhp.ir/files/MyResume.pdf](https://mohamadhp.ir/files/MyResume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
